@@ -1,0 +1,75 @@
+ <?xml version="1.0" encoding="UTF-9"?>
+
+<pc:podcast
+    xmlns:pc="https://purl.org/net/hbuschme/teaching/2019ws-infostruk/podcast/0.3"
+    xmlns:pt="https://purl.org/net/hbuschme/teaching/2019ws-infostruk/podcast-transcript/0.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="
+        https://purl.org/net/hbuschme/teaching/2019ws-infostruk/podcast/0.3
+        podcast.xsd
+        https://purl.org/net/hbuschme/teaching/2019ws-infostruk/podcast-transcript/0.1
+        podcast-transcript.xsd"
+    url="https://forschergeist.de/"
+    version="0.3">
+
+    <pc:title>Forschergeist</pc:title>
+
+    <pc:persons>
+        <pc:person pid="timpritlove" gender="male">Tim Pritlove</pc:person>
+        <pc:person pid="ritaadrian" gender="female">Rita Adrian</pc:person>
+        <pc:person pid="peterpurgathofer" gender="male">Peter Purgathofer</pc:person>
+        <pc:person pid="justushaucap" gender="male">Justus Haucap</pc:person>
+        <pc:person pid="oliverparodi" gender="male">Oliver Parodi</pc:person>
+        <pc:person pid="alinakokoschka" gender="female">Alina Kokoschka</pc:person>
+    </pc:persons>
+
+    <pc:episode episode="73" title="Klimawandel in Seen" date="2019-11-19T19:35:00" url="https://forschergeist.de/podcast/fg073-klimawandel-in-seen/" duration="01:23:14">
+        <pc:contributor pid="timpritlove" role="host"/>
+        <pc:contributor pid="ritaadrian" role="guest" />
+
+        <pc:chapter number="1" duration="00:41" title="Intro" />
+        <pc:chapter number="2" duration="01:14" title="Begrüßung" />
+        <pc:chapter number="3" duration="04:41" title="Leibniz-Institut für Gewässerökologie und Binnenfischerei " />
+        <pc:chapter number="4" duration="02:35" title="Persönlicher Werdegang" />
+        <pc:chapter number="5" duration="04:44" title="Wissenschaftskultur in den USA" />
+        <pc:chapter number="6" duration="06:34" title="Das Ökosystem der Binnenseen" />
+        <pc:chapter number="7" duration="15:04" title="Langzeitbeobachtung der Seen" />
+        <pc:chapter number="8" duration="12:46" title="Erkenntnisse aus den Messungen" />
+        <pc:chapter number="9" duration="08:27" title="Veränderungen durch den Klimawandel" />
+        <pc:chapter number="10" duration="03:10" title="Erforderliche Maßnahmen" />
+        <pc:chapter number="11" duration="11:52" title="Wissenschaftliche Arbeit im IPCC" />
+        <pc:chapter number="12" duration="10:02" title="Datenmanagement" />
+        <pc:chapter number="13" duration="01:06" title="Ausklang" />
+
+        <pt:transcript 
+            xmlns:pt="https://purl.org/net/hbuschme/teaching/2019ws-infostruk/podcast-transcript/0.1"
+            version="0.1">
+        </pt:transcript>
+    </pc:episode>
+
+    <pc:episode episode="72" title="Verantwortung in der Informatik" date="2020-10-01T11:00:00" url="https://forschergeist.de/podcast/fg072-verantwortung-in-der-informatik/" duration="01:53:23">
+        <pc:contributor pid="timpritlove" role="host"/>
+        <pc:contributor pid="peterpurgathofer" role="guest" />
+
+        <pc:chapter number="1" duration="00:42" title="Intro" />
+        <pc:chapter number="2" duration="00:46" title="Begrüßung" />
+        <pc:chapter number="3" duration="08:26" title="Peter Purgathofer" />
+        <pc:chapter number="4" duration="09:26" title="Ethik und Moral in der Informatik" />
+        <pc:chapter number="5" duration="06:41" title="Entscheidung und Verantwortung" />
+        <pc:chapter number="6" duration="11:22" title="Denkweisen in der Informatik" />
+        <pc:chapter number="7" duration="00:55" title="Strukturierung des Kurses" />
+        <pc:chapter number="8" duration="05:31" title="Pre-Scientific Thinking" />
+        <pc:chapter number="9" duration="04:15" title="Scientific Thinking" />
+        <pc:chapter number="10" duration="06:01" title="Mathematical Thinking" />
+        <pc:chapter number="11" duration="07:35" title="Computational Thinking" />
+        <pc:chapter number="12" duration="09:57" title="Design Thinking" />
+        <pc:chapter number="13" duration="10:20" title="Critical Thinking und Diversity" />
+        <pc:chapter number="14" duration="05:15" title="Responsible Thinking" />
+        <pc:chapter number="15" duration="04:00" title="Creative Thinking" />
+        <pc:chapter number="16" duration="02:18" title="Economical Thinking" />
+        <pc:chapter number="17" duration="04:07" title="Criminal Thinking" />
+        <pc:chapter number="18" duration="02:07" title="Denkweisen für die Wissenschaft" />
+        <pc:chapter number="19" duration="11:45" title="Der Reifegrad der Informatik" />
+        <pc:chapter number="20" duration="01:43" title="Ausklang" />
+  </pc:episode> 
+    </pc:podcast>
